@@ -1,0 +1,3 @@
+##How to compile
+
+gcc -Wall -o register RegisterServer.c -lpaho-mqtt3c -lmysqlclient

@@ -1,0 +1,4 @@
+
+##How to compile
+
+sudo gcc -Wall Raspberry_controller_final.c -o rasp -l wiringPi -lpaho-mqtt3c -lpthread -DRaspberryPi
